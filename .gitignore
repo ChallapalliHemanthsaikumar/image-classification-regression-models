@@ -4,3 +4,10 @@
 *.ptx
 *.cubin
 *.fatbin
+
+data
+1
+*.pt
+*.h5
+data/
+data/cifar-100-python/
