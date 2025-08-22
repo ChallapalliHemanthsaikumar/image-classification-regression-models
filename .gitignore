@@ -11,3 +11,4 @@ data
 *.h5
 data/
 data/cifar-100-python/
+.env
